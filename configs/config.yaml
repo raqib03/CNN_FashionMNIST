@@ -1,0 +1,17 @@
+learning_rate: 0.001
+batch_size: 1024
+num_epochs: 20
+output_dir: outputs/
+device: cuda
+
+class_names:
+  0: T-shirt/top
+  1: Trouser
+  2: Pullover
+  3: Dress
+  4: Coat
+  5: Sandal
+  6: Shirt
+  7: Sneaker
+  8: Bag
+  9: Ankle boot
